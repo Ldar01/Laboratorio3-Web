@@ -1,0 +1,113 @@
+button{
+    margin: 7px;
+    border-radius: 6px;
+    border: none;
+    padding: 8px 8px;
+    font-family: "DejaVu Sans";
+    color: dimgray;
+}
+
+#pequenio{
+    font-size: 30%;
+}
+
+#grande{
+    font-size: 120%;
+}
+
+#esmeralda{
+    background-color: #57d68d;
+    color: white;
+}
+
+#cielo{
+    background-color: #5cace2;
+    color: white;
+}
+
+#amatista{
+    background-color: #ae7ac4;
+    color: white;
+}
+
+#asfalto{
+    background-color: #5c6d7e;
+    color: white;
+}
+
+#topazio{
+    background-color: #ea974e;
+    color: white;
+}
+
+#rubi{
+    background-color: #eb6f62;
+    color: white;
+}
+
+#b_esme{
+    border: #57d68d 1px solid;
+    background-color: white;
+    color: #57d68d;
+}
+
+#simple{
+    border: dimgray 1px solid;
+    background-color: white;
+    color: dimgray;
+}
+
+#b_cielo{
+    border: #5cace2 1px solid;
+    background-color: white;
+    color: #5cace2;
+}
+
+#b_amat{
+    border: #ae7ac4 1px solid;
+    background-color: white;
+    color: #ae7ac4;
+}
+
+#b_topaz{
+    border: #ea974e 1px solid;
+    background-color: white;
+    color: #ea974e;
+}
+
+#b_asf{
+    border: #5c6d7e 1px solid;
+    background-color: white;
+    color: #5c6d7e;
+}
+
+#b_rubi{
+    border: #eb6f62 1px solid;
+    background-color: white;
+    color: #eb6f62;
+}
+
+#l_asf{
+    background-color: #5c6d7e;
+    color: white;
+    font-size: 120%;
+}
+
+#l_cielo{
+    border: #5cace2 1px solid;
+    background-color: white;
+    color: #5cace2;
+}
+
+#l_esme{
+    background-color: #57d68d;
+    color: white;
+    font-size: 30%;
+}
+
+#l_rubi{
+    border: #eb6f62 1px solid;
+    background-color: white;
+    color: #eb6f62;
+    font-size: 120%;
+}
