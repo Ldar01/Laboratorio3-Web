@@ -1,1 +1,55 @@
+body{
+    background-image: url("fondo.jpg") ;
+    background-size: 100%;
+    background-repeat: repeat;
+}
 
+h1{
+    color: white;
+    text-align: center;
+    border-style: double;
+    width: 480px;
+    padding: 9px;
+    margin: auto;
+}
+
+table{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+td{
+    color:white;
+}
+
+td>i{
+    font-size: 50px;
+}
+
+#icono{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    padding-left: 1px; 
+}
+
+td>a{
+    padding-left: 20px;
+    color: aqua;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+td>a:hover{
+    color: blue;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    padding-left: 30px;
+    border-left-width: 10px;
+    border-left-color: blueviolet;
+    border-left-style: solid;
+    margin: auto;
+}
